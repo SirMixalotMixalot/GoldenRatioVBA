@@ -2,7 +2,7 @@
 A VBA script that creates a plot of the golden ratio in Microsoft Word.
 
 # Why?
-idk, seemed like a fun idea
+A fun application of my forced knowledge of Visual Basic and polar co-ordinates
 # Installation
 1. Download `golden_ratio.docm`
 2. [Unblock the file](https://support.microsoft.com/en-gb/topic/a-potentially-dangerous-macro-has-been-blocked-0952faa0-37e7-4316-b61d-5b5ed6024216)  (trust me)
