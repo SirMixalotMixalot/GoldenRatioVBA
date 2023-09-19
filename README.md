@@ -12,7 +12,7 @@ idk, seemed like a fun idea
 
 And if that doesn't work, here's the source code because sometimes you just can't be bothered:
 ```VBA
-Sub GoldenRain()
+Sub GoldenSpiral()
 '
 ' Makes the spiral thing. Very funS
 '
